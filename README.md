@@ -24,6 +24,6 @@ The team members were:
 | Team Member Name| Email |
 | --- | --- | 
 | Tanvi Jain | jain.tanvi@iitgn.ac.in| 
-|Harshita Ramcahndani | harshita.ramchandani@iitgn.ac.in |
+|Harshita Ramchandani | harshita.ramchandani@iitgn.ac.in |
 | Ishani Chogle | chogle.ishani@iitgn.ac.in | 
 | Tanvi Chaudhari | chaudhari.tanvi@iitgn.ac.in | 
